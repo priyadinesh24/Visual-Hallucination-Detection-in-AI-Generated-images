@@ -4,4 +4,5 @@ Real object  COCO dataset  and i will generate the ai images using stable diffus
 These error are called visula hallucination.
 
 The main aim of my project is detecting the hallucination images automatically before user see the images, because everyone use the ai images the hallucinated images reduce the trust of 
-users. To solve the problem i have used CNN model i will give the result like label on hallucinated images 
+users. To solve the problem i have used CNN model i will give the result like label on hallucinated images.and i will get the result of accuracy 91.25
+
